@@ -1,8 +1,4 @@
 #  Mean and variance of a discrete  distribution
-```
-Name : Roop Sagar S L
-Reg no : 212223040175
-```
 
 # Aim : 
 
@@ -52,6 +48,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
+/* Name : Roop Sagar S L
+   Reg No : 212223040175  */
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
